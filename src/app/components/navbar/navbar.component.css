@@ -1,0 +1,9 @@
+.btn{
+    font-size: large;
+    margin-right: 2vh;
+}
+.btn-outline-primary{
+    border-radius: 35px;
+    min-width: 20vh;
+    max-width: 100%;
+}
